@@ -61,21 +61,37 @@ sns.heatmap(df.corr(),annot=True)
 ```
 # OUTPUT:
 ![op1](https://user-images.githubusercontent.com/95342910/163918250-5cb4ca06-cc99-4608-a1e9-d6a7349a9077.png)
+
 ![op2](https://user-images.githubusercontent.com/95342910/163918279-85d45d04-a9a5-4fec-ae81-d2d48dbaad99.png)
+
 ![op3](https://user-images.githubusercontent.com/95342910/163918345-313266e4-5b43-4186-a661-b0366ee6bd39.png)
+
 ![op4](https://user-images.githubusercontent.com/95342910/163918358-ed6dd686-d02a-43bc-b6e5-14a13fc056f7.png)
+
 ![op5](https://user-images.githubusercontent.com/95342910/163918376-e73ea20d-e606-42df-9c20-9270f765aa6f.png)
+
 ![op6](https://user-images.githubusercontent.com/95342910/163918406-84994251-cd7d-4846-bcb7-8dbb42c78e09.png)
+
 ![op7](https://user-images.githubusercontent.com/95342910/163918428-297326e9-cb12-4ca0-ad26-4f51c3e7f0db.png)
+
 ![op8](https://user-images.githubusercontent.com/95342910/163918446-29faa3ee-6f3d-4141-908b-f1169259e4d7.png)
+
 ![op9](https://user-images.githubusercontent.com/95342910/163918468-eeb52f73-1fd4-4da4-a0d0-fa13d80ae41d.png)
+
 ![op10](https://user-images.githubusercontent.com/95342910/163918477-e2ed25e9-6d3d-4cd8-a40d-12f17faa1f9d.png)
+
 ![op11](https://user-images.githubusercontent.com/95342910/163918484-4a27be33-afbe-4a79-b5b3-3b4ffbf6f6ce.png)
+
 ![op12](https://user-images.githubusercontent.com/95342910/163918494-c4596e8e-56ec-4296-8666-353d06a3b751.png)
+
 ![op13](https://user-images.githubusercontent.com/95342910/163918506-c83ca66f-bd25-4c08-955e-1f45a9f59404.png)
+
 ![op14](https://user-images.githubusercontent.com/95342910/163918526-3070e047-2caa-4e67-ad9e-30c308dd0c81.png)
+
 ![op15](https://user-images.githubusercontent.com/95342910/163918530-eb649427-1e54-4bcb-b60f-474862dc0c81.png)
+
 ![op16](https://user-images.githubusercontent.com/95342910/163918541-8dc7b448-ccfd-40aa-8151-f3157c1da000.png)
+
 ![op17](https://user-images.githubusercontent.com/95342910/163918549-e6aa593b-d25c-4f1a-bce6-116026c304cc.png)
 
 
